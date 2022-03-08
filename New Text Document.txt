@@ -1,0 +1,5 @@
+{
+            "IP":"itsproland.aternos.me",
+            "port": "39888"
+            "name": "AFK-BOT"
+} 
